@@ -127,14 +127,3 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY="YOUR_STRIPE_SECRET_KEY"
 
 - [x] Live Link - [Click Here](https://travello-template.vercel.app)
 - [x] Design Link - [Click Here](https://www.figma.com/file/U0BQwI1VapmtMMTXAFgabB/Travel?node-id=151%3A91&mode=dev)
-
-# Author
-
-- Developer - [Hasibul Islam](https://www.linkedin.com/in/devhasibulislam/)
-- Designer - [MD Saiful Islam ](https://www.linkedin.com/in/md-saiful-islam-361959220/) `dedicate to`
-
-# `find it useful` then `buy me a coffee` 😜😜😜
-
-<a href="https://www.buymeacoffee.com/devhasibulislam" target="_blank">
-    <img src="./buy-me-a-coffee.png" alt="devhasibulislam - buy me a coffee" alt="linkedin logo" style="max-widh: 100%; border-radius: 10px;"  />
-</a>
